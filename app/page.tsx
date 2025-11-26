@@ -316,31 +316,42 @@ export default function LandingPage() {
                 Empowering communities through transparent democracy.
               </p>
             </div>
+
             <div className="prose prose-lg mx-auto text-left space-y-6">
               <div className="bg-card border rounded-2xl p-8 md:p-12 space-y-6 scroll-animate hover-lift">
+
                 <p className="text-foreground leading-relaxed">
-                  RepMe was founded by a diverse group of minority and people of color who recognized a critical gap in our democratic process. We witnessed firsthand how voter ignorance and governmental ambiguity have created a system where corruption can flourish unchecked.
+                  RepMe was founded by a diverse group of people who recognized a critical gap in our democratic process. We saw how confusing information, voter uncertainty, and government ambiguity create an environment where accountability becomes optional instead of expected.
                 </p>
+
                 <p className="text-foreground leading-relaxed">
-                  Our government has become increasingly opaque, making it nearly impossible for everyday citizens to understand what their representatives are actually doing. This lack of transparency doesn't just breed corruption—it undermines the very foundation of democracy.
+                  At RepMe, there's no Right or Left—just facts. Our goal is to make political information clear, accessible, and free from partisan influence. 
+                  <strong> Bring complete, unbiased information directly to your fingertips.</strong>
                 </p>
+
                 <p className="text-foreground leading-relaxed">
-                  <strong>Our mission is simple:</strong> Bring complete, unbiased information directly to your fingertips. We believe that an informed electorate is the cornerstone of a healthy democracy, and every citizen deserves access to clear, accurate information about their government.
+                  Our government has become increasingly opaque, making it difficult for everyday people to understand what their representatives are actually doing. That lack of transparency doesn't just create confusion—it weakens trust, participation, and ultimately the health of our democracy.
                 </p>
+
                 <p className="text-foreground leading-relaxed">
-                  RepMe cuts through the political noise and partisan spin to deliver facts. We don't tell you how to vote—we give you the tools to make informed decisions based on actual voting records, policy positions, and legislative impacts.
+                  RepMe cuts through political noise by focusing on verified data: voting records, policy positions, legislative impacts, and factual descriptions. We don't support red or blue—we support clarity. We don't tell you how to vote—we give you the tools to decide for yourself.
                 </p>
+
                 <div className="bg-primary/5 border border-primary/20 rounded-xl p-6 mt-8">
                   <p className="text-foreground font-medium">
-                    "Democracy works best when citizens are informed. Our goal is to ensure that transparency and accountability aren't privileges for the few, but rights for all."
+                    "Democracy works best when citizens are informed. Our mission is to ensure that transparency and accountability aren’t privileges for the few, but rights for everyone."
                   </p>
-                  <p className="text-sm text-muted-foreground mt-2">— The RepMe Team</p>
+                  <p className="text-sm text-muted-foreground mt-2">
+                    — The RepMe Team
+                  </p>
                 </div>
+
               </div>
             </div>
           </div>
         </div>
       </section>
+
 
       {/* Waitlist Section */}
       <section id="waitlist" className="border-t bg-muted/50 py-20 md:py-32">
