@@ -250,13 +250,11 @@ export default function LandingPage() {
           <div className="grid gap-8 md:grid-cols-3 max-w-6xl mx-auto mb-12">
             <div className="flex flex-col items-center space-y-20 scroll-animate">
               <div className="relative aspect-[9/16] w-full max-w-[280px]">
-                <Image
-                  src="/images/PolicyPreference.gif"
-                  alt="Track your representatives and their policy positions"
-                  width={280}
-                  height={560}
-                  className="rounded-2xl shadow-xl border hover-lift"
-                />
+               <img
+                src="/images/PolicyPreference.gif"
+                alt="Track your representatives and their policy positions"
+                className="rounded-2xl shadow-xl border hover-lift w-[280px] h-[560px] object-cover"
+              />
               </div>
               <div className="text-center space-y-4">
                 <h3 className="text-lg font-semibold">Track Your Representatives</h3>
