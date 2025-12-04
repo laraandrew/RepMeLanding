@@ -134,12 +134,13 @@ export default function LandingPage() {
               </p>
             </div>
             <div className="w-full">
-              <iframe 
-              src="https://docs.google.com/forms/d/e/1FAIpQLSfVb6vIE1WsHDWGjwzT8a8K2Q232DfzKDMix2-aOl0eigF7zw/viewform?embedded=true" 
-              width="100%" 
-              height="600">
-                Loading…
-              </iframe>
+                <iframe 
+                  src="https://docs.google.com/forms/d/e/1FAIpQLSeJJ3IaN_vhJBJiv6SxVqMDH9c92gOxgTF0Qxd4MQPLVBgjqA/viewform?embedded=true" 
+                  width="100%" 
+                  height="500">
+                  Loading…
+                </iframe>
+
             </div>
           </div>
         </div>
